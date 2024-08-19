@@ -50,6 +50,6 @@ Contributing
 Feel free to open issues or submit pull requests if you want to contribute to this project.
 
 Contact
-For any questions or support, please contact [solihahusniddinova27@gmail.com].
+For any questions or support, please contact solihahusniddinova27@gmail.com
 
 
