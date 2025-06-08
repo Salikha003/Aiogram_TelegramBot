@@ -49,7 +49,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contributing
 Feel free to open issues or submit pull requests if you want to contribute to this project.
 
-Contact
-For any questions or support, please contact solihahusniddinova27@gmail.com
+
 
 
